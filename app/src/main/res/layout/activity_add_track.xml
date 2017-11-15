@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.tchavan.exampleoffirebase.MainActivity">
+
+
+    <TextView
+        android:id="@+id/lblArtistName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tracks"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+
+    <EditText
+        android:id="@+id/txtArtistName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_track_name" />
+
+
+    <Spinner
+        android:id="@+id/spnArtist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/generes" />
+
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/save" />
+
+
+    <ListView
+        android:id="@+id/lstGeneres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

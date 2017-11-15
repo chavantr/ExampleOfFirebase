@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "929832655390",
+    "firebase_url": "https://examplefirebase-15b9d.firebaseio.com",
+    "project_id": "examplefirebase-15b9d",
+    "storage_bucket": "examplefirebase-15b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929832655390:android:d9554f48174eab17",
+        "android_client_info": {
+          "package_name": "com.example.tchavan.examplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929832655390-o5vor0gcd1e5bshijtef0t3r08lk6gg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tchavan.examplefirebase",
+            "certificate_hash": "e268c934299892814b393baddb26bcbd55ac8b11"
+          }
+        },
+        {
+          "client_id": "929832655390-oo3jtuhr26dekt1dd5mjq3idp50q1050.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVNkiOVdP3lDY0RVfqUFjFw5DAXXhyrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929832655390-oo3jtuhr26dekt1dd5mjq3idp50q1050.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929832655390:android:f413c099a7206509",
+        "android_client_info": {
+          "package_name": "com.example.tchavan.exampleoffirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929832655390-me9pirbgktbg18qibgg3g7lp4b1bl4hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tchavan.exampleoffirebase",
+            "certificate_hash": "e268c934299892814b393baddb26bcbd55ac8b11"
+          }
+        },
+        {
+          "client_id": "929832655390-oo3jtuhr26dekt1dd5mjq3idp50q1050.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVNkiOVdP3lDY0RVfqUFjFw5DAXXhyrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929832655390-oo3jtuhr26dekt1dd5mjq3idp50q1050.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
